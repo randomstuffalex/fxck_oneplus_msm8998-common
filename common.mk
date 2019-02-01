@@ -276,7 +276,8 @@ PRODUCT_COPY_FILES += \
 
 # Illusion Kernel
 PRODUCT_PACKAGES += \
-    init.kronic.rc
+    init.kronic.rc \
+    init.kronic.sh
 
 # KeyHandler
 PRODUCT_PACKAGES += \
